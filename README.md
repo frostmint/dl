@@ -1,4 +1,4 @@
-![Download-Page](dl-banner_img.png)
+![Download-Page](img-banner1.png)
 # Download Module (DIRECT DOWNLOADS) (64-Bit ONLY)
 ## NodeJS
 [Download NodeJs LTS 14.18.1](https://nodejs.org/dist/v14.18.1/node-v14.18.1-x64.msi)
